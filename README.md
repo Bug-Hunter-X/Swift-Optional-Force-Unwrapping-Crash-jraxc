@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: force unwrapping optionals. Force unwrapping (`!`) can cause runtime crashes if the optional value is nil. This example shows how to safely handle optionals using optional binding and the nil-coalescing operator.
